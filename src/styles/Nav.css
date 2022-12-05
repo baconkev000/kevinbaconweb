@@ -1,0 +1,18 @@
+.nav-color {
+    background-color: transparent;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 30px;
+}
+.nav-link {
+    font-size: 20px;
+    width: 100%;
+    text-decoration: none;
+    color: white;
+}
+.nav-right{
+    justify-content: flex-end;
+}
+.navbar-brand{
+    font-size:3em;
+}

@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c0e30d7.css",
+    "main.js": "/static/js/main.d1ac3a96.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/kick.png": "/static/media/kick.99230df23680748c6d65.png",
+    "static/media/splitRock.png": "/static/media/splitRock.742a917b9c54531525e7.png",
+    "static/media/durag_anime.MP4": "/static/media/durag_anime.8a15f29204670e9e2d81.MP4",
+    "static/media/bubbles.png": "/static/media/bubbles.9cb41f80a1068a2ee39d.png",
+    "static/media/asiaCartoon.png": "/static/media/asiaCartoon.87e21ed43e2b254e19a3.png",
+    "static/media/momKaylaCartoon.png": "/static/media/momKaylaCartoon.698ba71abb0302996edf.png",
+    "static/media/greyKevinCartoon.png": "/static/media/greyKevinCartoon.d03ee03fa53cdc9a0628.png",
+    "static/media/splitRockCartoon.png": "/static/media/splitRockCartoon.c417e3c32fcf02ffa7dc.png",
+    "static/media/momKayla.jpg": "/static/media/momKayla.4da3c51bb308843766f8.jpg",
+    "static/media/kickCartoon.png": "/static/media/kickCartoon.3e1655c3c7ce637f5778.png",
+    "static/media/this_sucks.MP4": "/static/media/this_sucks.168dc525920bc9490fb1.MP4",
+    "static/media/bubblesCartoon.png": "/static/media/bubblesCartoon.ebe11e2811ca62481050.png",
+    "static/media/moCartoon.png": "/static/media/moCartoon.537c5e4c88b35f10167b.png",
+    "static/media/sleepingShoes.jpg": "/static/media/sleepingShoes.be68b1d751f6516dfc0f.jpg",
+    "static/media/grillCartoon.png": "/static/media/grillCartoon.6d75c64205006b6e710b.png",
+    "static/media/sleepingShoesCartoon.png": "/static/media/sleepingShoesCartoon.01066ebc1cb792421c8d.png",
+    "static/media/greyKevin.jpg": "/static/media/greyKevin.ed140ba64df49e58852a.jpg",
+    "static/media/ryanMirrorCartoon.png": "/static/media/ryanMirrorCartoon.91a329481ead98fd6655.png",
+    "static/media/grill.jpg": "/static/media/grill.278a6ee25e375d4b204b.jpg",
+    "static/media/ryanMirror.jpg": "/static/media/ryanMirror.7c04e27720851d0c079a.jpg",
+    "static/media/p3.jpg": "/static/media/p3.844d3d67a369cf510263.jpg",
+    "static/media/im_bored_animation.MP4": "/static/media/im_bored_animation.c56078f07d63489e53ec.MP4",
+    "static/media/mo.jpg": "/static/media/mo.2d42e6ea5a76d2575b13.jpg",
+    "static/media/asia.jpg": "/static/media/asia.bd9601416f1163305d94.jpg",
+    "static/media/Kevin_Bacon_Resume_2022.pdf": "/static/media/Kevin_Bacon_Resume_2022.4fc2c46778a90b6035ff.pdf",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.6c0e30d7.css.map": "/static/css/main.6c0e30d7.css.map",
+    "main.d1ac3a96.js.map": "/static/js/main.d1ac3a96.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c0e30d7.css",
+    "static/js/main.d1ac3a96.js"
+  ]
+}

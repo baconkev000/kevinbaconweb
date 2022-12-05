@@ -1,0 +1,13 @@
+.h1-style {
+    font-size: 1.8em;
+    color: white;
+    text-align: left;
+    padding-bottom:20px;
+}
+.title-accent-color{
+    color: #5788B5;
+}
+
+#go-back {
+    font-size: .75em;
+}

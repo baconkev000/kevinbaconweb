@@ -1,0 +1,44 @@
+.button-box-container{
+    width:100%;
+    height:30vh;
+    background-color: #101010;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3em;
+    cursor: pointer;
+    text-decoration: none;
+    border: #7de3a8 solid 2px;
+    box-shadow: inset .5em .5em 2em black;
+    overflow-wrap: normal;
+}
+
+@keyframes shake {
+    15% {
+        transform: scale(1.02, 1);
+    }
+
+    35% {
+        transform: scale(.96, .96);
+    }
+
+    75% {
+        transform: scale(1.02, 1);
+    }
+
+    100% {
+        transform: scale(1, 1);
+    }
+
+}
+
+.button-box-container:hover {
+    animation: shake .2s;
+    border: #eed17a solid 2px;
+}
+
+.p-button-text{
+    font-size:2px;
+}
+

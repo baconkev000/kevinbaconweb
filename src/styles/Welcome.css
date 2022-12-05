@@ -1,0 +1,47 @@
+.welcome-text{
+    color:white;
+    font-size: 5em;
+    text-align: center;
+    padding: 20px;
+}
+.welcome-btn {
+    width: 100%;
+    background-color: #101010;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3em;
+    cursor: pointer;
+    text-decoration: none;
+    border: #7de3a8 solid 2px;
+    padding:10px;
+    overflow:hidden;
+}
+@keyframes shake {
+    15% {
+        transform: scale(1.02, 1);
+    }
+
+    35% {
+        transform: scale(.96, .96);
+    }
+
+    75% {
+        transform: scale(1.02, 1);
+    }
+
+    100% {
+        transform: scale(1, 1);
+    }
+
+}
+
+.welcome-btn:hover {
+    animation: shake .2s;
+    border: #eed17a solid 2px;
+}
+.welcome-container{
+    height: 100vh;
+
+}

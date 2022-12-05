@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+  font-family: 'Courier';
+  background-color: #1f1f1f;
+  overflow-x: hidden;
+}
+
+.test-color{
+  background-color:red;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 10vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.site-body{
+  background-color: #1f1f1f;
+  width: 100vw;
+  min-height: 100vh;
+  overflow:hidden;
+}
+.accent-color{
+  color: #f3e98b;
+}
+.secondary-accent-color {
+  color: #deb8f6;
+}
+
+.tertiary-accent-color {
+  color: rgb(184, 246, 237);
+}
+
+.quaternary-accent-color {
+  color: rgb(124, 164, 117);
+}
+.quinary-accent-color {
+  color: #b8d8f6;
+}
+.senary-accent-color{
+  color: #eed17a;
+}
+.septenary-accent-color {
+  color: #7de3a8;
+}
+.octonary-accent-color {
+  color: #e37d7d;
+}
+.add-indent{
+  margin-left: 10px;
+  padding-left: 10px;
+}
+.code-line {
+  border-left: 1px solid rgb(225, 225, 225, .5);
+}
+.dot{
+  color:white;
+}
+
+.content-body{
+    border: solid #323232 1px;
+    background-color: #161616;
+    padding: 2em;
+    min-height: 80vh;
+}
+.link-color:link {
+  color: #78b3eb;
+}
+.link-color:visited {
+  color: #78b3eb;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
