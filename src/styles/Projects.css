@@ -8,10 +8,10 @@
     align-items: center;
     font-size: 1.3em;
     cursor: pointer;
-    text-decoration: none;
     border: #7de3a8 solid 2px;
     box-shadow: inset .5em .5em 2em black;
     overflow-wrap: normal;
+        text-decoration: none;
 }
 
 @keyframes shake {
@@ -37,8 +37,22 @@
     animation: shake .2s;
     border: #eed17a solid 2px;
 }
+.button-box-link{
+    text-decoration: none;
+}
 
 .p-button-text{
     font-size:2px;
 }
+.pb-description {
+    font-size:.7em;
+    color: #aaaaaa;
+}
+.pb-language{
+    color: #7de3a8;
+}
 
+.pb-short-description{
+    color: #aaaaaa;
+    display: none;
+}

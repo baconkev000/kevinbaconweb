@@ -1,14 +1,9 @@
 import '../../styles/Projects.css';
 import ProjectButton from './ProjectButton';
+import GitProjectButton from './GitProjectButton';
 import Parens from '../global/Parens';
 
 function Projects() {
-    let projectsList = [
-        ["Kevin Bacon Web", "https://github.com/baconkev000/kevinbaconweb"],
-        [ "Django API", "https://github.com/baconkev000/lofty_backend_test" ],
-        ["Brick Breaker", "https://github.com/baconkev000/Brick-Breaker"],
-        [ "TTT App", "https://github.com/baconkev000/TinyTaskTuesdayApp" ],
-    ];
     let funProjects = [
         [ "Art", null ],
         ["Video",null],
@@ -21,7 +16,7 @@ function Projects() {
                     <div className="dev-header">
                         <span className="tertiary-accent-color">def</span> <span className="septenary-accent-color">Github_Projects</span><Parens func={true}/>
                     </div>
-                    <ProjectButton addThis={true} links={new Map(projectsList)} cols={2} github={false} />
+                    <GitProjectButton addThis={true} cols={2} />
                     <div className="dev-header">
                         <span className="tertiary-accent-color">def</span> <span className="septenary-accent-color">Media_Projects</span><Parens func={true}/>
                     </div>

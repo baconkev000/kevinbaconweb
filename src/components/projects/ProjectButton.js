@@ -2,6 +2,7 @@ import MemberAccess from "../global/MemberAccess";
 import { Link } from 'react-router-dom'
 import { gsap } from "gsap";
 import { useEffect } from 'react';
+import projectsObejctList from "./ProjectsList";
 
 function ProjectButton(props) {
     let buttonsMap = props.links;
@@ -28,7 +29,7 @@ function ProjectButton(props) {
         })
         return buttonList;
     }
-    function createProjectButton(name, link, i, language=" ") {
+    function createProjectButton(name, link, i) {
         return link == null ? // checking if external link is present
             (
             <div className={colSpacing} key={name}>
@@ -38,10 +39,11 @@ function ProjectButton(props) {
             )
             :
             (
-            <div className={colSpacing} key={name}>
-                <a className={`button-box-container p-button-${i}`} href={link} target="_blank">
-                        <MemberAccess members={props.addThis ? ["this " + name] : [name]} /></a>
-                    <span>{language}</span>
+                <div className={colSpacing} key={name}>
+                    <div className="button-box-container">
+                    <a className={`button-box-link p-button-${i}`} href={link} target="_blank">
+                            <MemberAccess members={props.addThis ? ["this " + name] : [name]} /></a>
+                        </div>
             </div>
             )
     }
