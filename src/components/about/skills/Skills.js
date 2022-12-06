@@ -1,6 +1,5 @@
 import '../../../styles/Skills.css';
 import { gsap } from "gsap";
-import { useEffect } from 'react';
 import skillsList from './SkillsList';
 import Parens from '../../global/Parens';
 import MemberAccess from '../../global/MemberAccess';
