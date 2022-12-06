@@ -15,7 +15,7 @@ function Body() {
         <div className="container">
             <Router>
                     <Nav></Nav>
-                <Routes basename="/kevinbaconweb">
+                <Routes basename="/">
                     <Route path="/" element={<WelcomePage />}></Route>
                     <Route path="/welcome" element={<WelcomePage />}></Route>
                     <Route path="/about" element={<AboutPage />}></Route>
