@@ -4,7 +4,7 @@ import Parens from '../global/Parens';
 
 function Projects() {
     let projectsList = [
-        ["Kevin Bacon Web", "https://github.com/baconkev000/kbw-website"],
+        ["Kevin Bacon Web", "https://github.com/baconkev000/kevinbaconweb"],
         [ "Django API", "https://github.com/baconkev000/lofty_backend_test" ],
         ["Brick Breaker", "https://github.com/baconkev000/Brick-Breaker"],
         [ "TTT App", "https://github.com/baconkev000/TinyTaskTuesdayApp" ],
