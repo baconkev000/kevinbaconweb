@@ -23,12 +23,14 @@ function GitProjectButton(props) {
         projectsObejctList.forEach(project => {
             gitProjectsList.push(
                 <div className={colSpacing} key={project.name}>
-                    <div className="button-box-container flex-column">
+                    
                     <a className={`button-box-link p-button-${i}`} href={project.link} target="_blank">
-                            <MemberAccess members={props.addThis ? ["this " + project.name] : [project.name]} /></a>
+                        <div className="button-box-container flex-column">
+                            <MemberAccess members={props.addThis ? ["this " + project.name] : [project.name]} />
                         <div className="pb-description">{project.description}</div>
                         <div className="pb-short-description">{project.short_description}</div>
-                        </div>
+                </div>
+                        </a >
                 </div>
             )
             i++;

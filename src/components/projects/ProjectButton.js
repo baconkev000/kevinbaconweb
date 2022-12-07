@@ -40,7 +40,7 @@ function ProjectButton(props) {
             :
             (
                 <div className={colSpacing} key={name}>
-                    <a className={`button-box-containerbutton-box-link p-button-${i}`} href={link} target="_blank">
+                    <a className={`button-box-container button-box-link p-button-${i}`} href={link} target="_blank">
                             <MemberAccess members={props.addThis ? ["this " + name] : [name]} /></a>
             </div>
             )

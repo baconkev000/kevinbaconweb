@@ -33,9 +33,9 @@ function MemberAccess(props) {
    
 
     return (
-        <>
+        <div className="flex-row">
             {createMemberHTML()}
-        </>
+        </div>
     )
 }
 
