@@ -45,3 +45,12 @@
     height: 100vh;
 
 }
+
+@media (max-width:1200px) {
+    .welcome-text {
+        font-size: 3em;
+    }
+    .welcome-btn{
+        width: 90%;
+        margin-left:5%;    }
+}

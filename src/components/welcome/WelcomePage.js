@@ -19,7 +19,7 @@ function WelcomePage() {
                      />
                     </div>
             </div>
-            <div className='row'>
+            <div className='row gy-2'>
                 <div className='col-md'>
                     <Link className={"welcome-btn"} to={"/about"}>
                 <MemberAccess members={["View " + "About"]} /></Link>
