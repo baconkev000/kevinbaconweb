@@ -33,7 +33,7 @@ function MemberAccess(props) {
    
 
     return (
-        <div className="flex-row">
+        <div className="flex-row member-access-text">
             {createMemberHTML()}
         </div>
     )
