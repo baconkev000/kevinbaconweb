@@ -71,6 +71,9 @@
     .percent-num {
         font-size: .7em;
     }
+    .bar-text{
+        font-size: .7em;
+    }
 }
 @media (max-width:992px) {
     .percent-num-container{
