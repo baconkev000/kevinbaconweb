@@ -62,7 +62,7 @@ function AboutContent() {
                                 <ConstAbout ap="3" className="ap-3"/>
                         
                         <p>
-                            This site is a small representation of who I am and what I'm about. I hope you enjoy the site!
+                            This site is a small representation of who I am and what I enjoy doing. I hope you enjoy the site!
                         </p>
                     </div>
                 </div>
