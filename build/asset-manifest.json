@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.5ec0671e.css",
-    "main.js": "/static/js/main.02cb652d.js",
+    "main.js": "/static/js/main.aaf7fed4.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/kick.png": "/static/media/kick.99230df23680748c6d65.png",
     "static/media/splitRock.png": "/static/media/splitRock.742a917b9c54531525e7.png",
     "static/media/durag_anime.MP4": "/static/media/durag_anime.8a15f29204670e9e2d81.MP4",
     "static/media/bubbles.png": "/static/media/bubbles.9cb41f80a1068a2ee39d.png",
     "static/media/asiaCartoon.png": "/static/media/asiaCartoon.87e21ed43e2b254e19a3.png",
+    "static/media/profile_img.png": "/static/media/profile_img.70258c567e2a3ecdfa47.png",
     "static/media/momKaylaCartoon.png": "/static/media/momKaylaCartoon.698ba71abb0302996edf.png",
     "static/media/greyKevinCartoon.png": "/static/media/greyKevinCartoon.d03ee03fa53cdc9a0628.png",
     "static/media/splitRockCartoon.png": "/static/media/splitRockCartoon.c417e3c32fcf02ffa7dc.png",
@@ -23,7 +24,6 @@
     "static/media/ryanMirrorCartoon.png": "/static/media/ryanMirrorCartoon.91a329481ead98fd6655.png",
     "static/media/grill.jpg": "/static/media/grill.278a6ee25e375d4b204b.jpg",
     "static/media/ryanMirror.jpg": "/static/media/ryanMirror.7c04e27720851d0c079a.jpg",
-    "static/media/p3.jpg": "/static/media/p3.844d3d67a369cf510263.jpg",
     "static/media/im_bored_animation.MP4": "/static/media/im_bored_animation.c56078f07d63489e53ec.MP4",
     "static/media/mo.jpg": "/static/media/mo.2d42e6ea5a76d2575b13.jpg",
     "static/media/asia.jpg": "/static/media/asia.bd9601416f1163305d94.jpg",
@@ -33,11 +33,11 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.5ec0671e.css.map": "/static/css/main.5ec0671e.css.map",
-    "main.02cb652d.js.map": "/static/js/main.02cb652d.js.map",
+    "main.aaf7fed4.js.map": "/static/js/main.aaf7fed4.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ec0671e.css",
-    "static/js/main.02cb652d.js"
+    "static/js/main.aaf7fed4.js"
   ]
 }

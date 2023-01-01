@@ -1,4 +1,4 @@
-import ima from '../../media/images/about/p3.jpg'
+import ima from '../../media/images/about/profile_img.png'
 import Parens from '../global/Parens';
 import ConstAbout from './AboutConstants';
 
