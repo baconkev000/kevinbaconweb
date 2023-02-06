@@ -2,7 +2,7 @@ const skillsList = {
     languages: [
         ["Python", 80],
         ["JavaScript", 90],
-        ["TypeScript", 50],
+        ["TypeScript", 65],
         ["SQL", 60],
         ["React-Native", 80],
         ["Flutter",70],
@@ -18,6 +18,7 @@ const skillsList = {
     ],
     frameworks: [
         ["Django", 70],
+        ["Vue", 60],
         ["Alpine", 50],
         ["HandleBars", 80],
         ["Mustache", 90],
