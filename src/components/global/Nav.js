@@ -3,7 +3,7 @@ import Brackets from './Brackets';
 import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom'
 import PageTitle from './PageTitle';
-import resumePDF from '../../media/docs/Kevin_Bacon_Resume_2022.pdf'
+import resumePDF from '../../media/docs/Kevin_Bacon_Resume.pdf'
 
 
 

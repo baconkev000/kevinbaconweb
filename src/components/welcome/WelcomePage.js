@@ -2,7 +2,7 @@ import Typewriter from 'typewriter-effect';
 import '../../styles/Welcome.css'
 import { Link } from 'react-router-dom';
 import MemberAccess from '../global/MemberAccess';
-import resumePDF from "../../media/docs/Kevin_Bacon_Resume_2022.pdf"
+import resumePDF from "../../media/docs/Kevin_Bacon_Resume.pdf"
 
 function WelcomePage() {
     return (
