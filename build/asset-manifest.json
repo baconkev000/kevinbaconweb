@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5a89eb1c.css",
-    "main.js": "/static/js/main.e88edb44.js",
+    "main.js": "/static/js/main.0a170466.js",
     "static/media/durag_anime.MP4": "/static/media/durag_anime.8a15f29204670e9e2d81.MP4",
     "static/media/this_sucks.MP4": "/static/media/this_sucks.168dc525920bc9490fb1.MP4",
     "static/media/splitRock.png": "/static/media/splitRock.16477a2db510ba6a0496.png",
@@ -32,10 +32,10 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.5a89eb1c.css.map": "/static/css/main.5a89eb1c.css.map",
-    "main.e88edb44.js.map": "/static/js/main.e88edb44.js.map"
+    "main.0a170466.js.map": "/static/js/main.0a170466.js.map"
   },
   "entrypoints": [
     "static/css/main.5a89eb1c.css",
-    "static/js/main.e88edb44.js"
+    "static/js/main.0a170466.js"
   ]
 }
