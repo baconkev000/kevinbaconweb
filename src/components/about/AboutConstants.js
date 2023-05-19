@@ -8,7 +8,7 @@ function ConstAbout(props) {
                              When I’m not working, I am likely executing one of the <span className="secondary-accent-color">hobbies</span> listed above. 
                         </p>;
     const AboutParagraph3 = <p className="ap-3">
-                            <span className="quaternary-accent-color"># I enjoy excersizing my create side in various ways and I am always wanting to gain skills in anything new. From creating art and animations to producing music, there is no limit to what I belive I can do. I love learning and trying new things. I have a strong drive for perfecting my craft and getting better at everything I do, especially programming. 
+                            <span className="quaternary-accent-color"># I enjoy excersizing my creative side in various ways and I am always wanting to gain skills in anything new. From creating art and animations to producing music, there is no limit to what I belive I can do. I love learning and trying new things. I have a strong drive for perfecting my craft and getting better at everything I do, especially programming. 
                         </span></p>;
 
 
