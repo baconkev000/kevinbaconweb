@@ -97,7 +97,7 @@ function Skills() {
     </h2>
                             <div id="aTools" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionSkills">
                                 <div className="accordion-body">
-                                    {createBar(tools)} </div>
+                                    {createBar(tools) } </div>
                             </div>
                         </div>
                     </div> 

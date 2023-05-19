@@ -26,7 +26,7 @@ const skillsList = {
     tools: [
         ["Git", 80],
         ["Docker", 70],
-        ["Postman/Insomnia", 60],
+        ["Postman-Insomnia", 60],
         ["PostgreSQL", 55],
         ["SQLite", 50],
     ]
