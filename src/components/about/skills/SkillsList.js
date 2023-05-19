@@ -12,23 +12,23 @@ const skillsList = {
     ],
     libraries: [
         ["React", 80],
-        ["HTMX", 90],
+        ["HTMX", 70],
         ["GSAP", 60],
         ["jQuery", 60],
     ],
     frameworks: [
-        ["Django", 70],
-        ["Vue", 60],
+        ["Django", 60],
+        ["Vue", 70],
         ["Alpine", 50],
-        ["HandleBars", 80],
-        ["Mustache", 90],
+        ["HandleBars", 70],
+        ["Mustache", 60],
     ],
     tools: [
         ["Git", 80],
-        ["Docker", 90],
-        ["Postman", 70],
-        ["PostgreSQL", 70],
-        ["SQLite", 70],
+        ["Docker", 70],
+        ["Postman/Insomnia", 60],
+        ["PostgreSQL", 55],
+        ["SQLite", 50],
     ]
 }
 
