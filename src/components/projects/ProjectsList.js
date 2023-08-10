@@ -16,14 +16,14 @@ const brick_breaker = {
         description: <>.jar game built using <span className="pb-language">Java</span></>,
         short_description: "Game: Java",
         };
-const ttt_app = {
-        name: "TTT App",
-        link: "https://github.com/baconkev000/TinyTaskTuesdayApp",
-        description: <>Mobile Task App built using <span className="pb-language">React Native</span></>,
-        short_description: "Mobile App: React Native",
+const colors_war = {
+        name: "Colors War",
+        link: "https://github.com/baconkev000/colors-war",
+        description: <>Small web app built using <span className="pb-language">Angular</span> and <span className="pb-language">TS</span></>,
+        short_description: "Web App: Angular/TS",
 };
         
 const projectsObejctList = [
-    kbw, django_app, brick_breaker,ttt_app, 
+    kbw, colors_war, django_app, brick_breaker, 
 ]
 export default projectsObejctList;

@@ -65,6 +65,18 @@ function Skills() {
                     <div className="accordion-body">
                         {createBar(languages) }</div>
                     </div>
+                        </div>
+                                        <div className="accordion-item">
+                    <h2 className="accordion-header" id="headingThree">
+                    <button onClick={() => barAnimation(frameworks) } id="frameworks"className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#aFrameworks" aria-expanded="false" aria-controls="aFrameworks">
+                        <MemberAccess members={["View " + "Frameworks"]} />
+                        
+                    </button>
+                    </h2>
+                    <div id="aFrameworks" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionSkills">
+                    <div className="accordion-body">
+                        {createBar(frameworks) } </div>
+                    </div>
                 </div>
                 <div className="accordion-item">
                     <h2 className="accordion-header" id="headingTwo">
@@ -77,18 +89,7 @@ function Skills() {
                         {createBar(libraries) }</div>
                     </div>
                 </div>
-                <div className="accordion-item">
-                    <h2 className="accordion-header" id="headingThree">
-                    <button onClick={() => barAnimation(frameworks) } id="frameworks"className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#aFrameworks" aria-expanded="false" aria-controls="aFrameworks">
-                        <MemberAccess members={["View " + "Frameworks"]} />
-                        
-                    </button>
-                    </h2>
-                    <div id="aFrameworks" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionSkills">
-                    <div className="accordion-body">
-                        {createBar(frameworks) } </div>
-                    </div>
-                    </div>
+
                     <div className="accordion-item">
                     <h2 className="accordion-header" id="headingThree">
                     <button onClick={() => barAnimation(tools) } id="tools"className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#aTools" aria-expanded="false" aria-controls="aTools">
