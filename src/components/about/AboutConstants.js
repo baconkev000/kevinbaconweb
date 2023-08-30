@@ -3,7 +3,7 @@ import MemberAccess from '../global/MemberAccess';
 function ConstAbout(props) {
     let returningParagraph = "";
 
-    const AboutParagraph1 = <p className="ap-1">Hi, my name is Kevin Bacon and I'm a full stack software engineer based in <MemberAccess members={["Salt Lake City Utah"]} />. I currently work for a company called <a className="link-color" href="https://www.hirelofty.com/" target="_blank">Lofty</a>, where I develop and implement scalable, data driven, high qualty products/features.</p>;
+    const AboutParagraph1 = <p className="ap-1">Hi, my name is Kevin Bacon and I'm a full stack software engineer based in <MemberAccess members={["Salt Lake City Utah"]} />. I regularly create and work on projects where I develop and implement scalable, data driven, high qualty products/features.</p>;
     const AboutParagraph2 = <p className="ap-2">
                              When I’m not working, I am likely executing one of the <span className="secondary-accent-color">hobbies</span> listed above. 
                         </p>;
