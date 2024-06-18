@@ -21,14 +21,14 @@ import splitRockCartoon from '../../../media/images/art/splitRockCartoon.png'
 
 let artArray = [
     asia, asiaCartoon,
-    bubbles, bubblesCartoon,
     greyKevin, greyKevinCartoon,
     grill, grillCartoon,
-    kick, kickCartoon,
-    mo, moCartoon,
+    //mo, moCartoon,
     momKayla, momKaylaCartoon,
-    ryanMirror, ryanMirrorCartoon,
+    //ryanMirror, ryanMirrorCartoon,
     sleepingShoes, sleepingShoesCartoon,
+    bubbles, bubblesCartoon,
+    kick, kickCartoon,
     splitRock, splitRockCartoon
 ]
 
