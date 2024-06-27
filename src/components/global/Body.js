@@ -8,14 +8,12 @@ import Video from "../projects/video/Video";
 import PageNotFound from "./PageNotFound";
 import FormPage from "../../temp/form";
 
-
-
 function Body() {
     return (
         <div className="container">
             <Router>
                     <Nav></Nav>
-                <Routes basename="/kevinbaconweb">
+                <Routes>
                     <Route path="/" element={<WelcomePage />}></Route>
                     <Route path="/welcome" element={<WelcomePage />}></Route>
                     <Route path="/about" element={<AboutPage />}></Route>
