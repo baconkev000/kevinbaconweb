@@ -15,6 +15,7 @@ function Body() {
                     <Nav></Nav>
                 <Routes>
                     <Route path="/" element={<WelcomePage />}></Route>
+                    <Route path="/kevinbaconweb" element={<WelcomePage />}></Route>
                     <Route path="/welcome" element={<WelcomePage />}></Route>
                     <Route path="/about" element={<AboutPage />}></Route>
                     <Route path="/projects" element={<Projects />}></Route>
