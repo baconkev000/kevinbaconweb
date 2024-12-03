@@ -2,6 +2,7 @@ import Typewriter from 'typewriter-effect';
 import '../../styles/Welcome.css'
 
 function PageNotFound() {
+    
     return (
             <div className="row">
                 <div className="welcome-text d-flex align-items-center flex-column">
