@@ -10,7 +10,9 @@ let videoArray = [
 ]
 let videoObject = {
     local: videoArray,
-    external: [["Protagonist - Black Anime Kevin", "https://www.youtube.com/embed/cnc36gKqeX0"]],
+    external: [
+        //["Protagonist - Black Anime Kevin", "https://www.youtube.com/embed/cnc36gKqeX0"]
+        ],
 }
 
 export default videoObject;
