@@ -1,6 +1,6 @@
 import AboutPage from "../about/AboutPage";
 import Nav from "./Nav";
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Projects from "../projects/Projects";
 import Art from "../projects/art/Art";
 import WelcomePage from "../welcome/WelcomePage";
